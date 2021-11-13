@@ -1,9 +1,40 @@
 {
     "albums": {
-        "1963": {},
-        "1964": {},
-        "1965": {},
-        "1966": {},
+        "Please Please Me": {
+            "date": "March 22, 1963",
+            "label": "Parlophone",
+            "length": "32:16"
+        },
+        "With the Beatles": {
+            "date": "November 22nd, 1963",
+            "label": "Parlophone",
+            "length": "33:07"
+        },
+        "A Hard Day's Night": {
+            "date": "July 10th, 1964",
+            "label": "Parlophone",
+            "length": "30:10"
+        },
+        "Beatles For Sale": {
+            "date": "December 4th, 1964",
+            "label": "Parlophone",
+            "length": "33:43"
+        },
+        "Help!": {
+            "date": "August 6th, 1965",
+            "label": "Parlophone",
+            "length": "33:44"
+        },
+        "Rubber Soul": {
+            "date": "December 3rd, 1965",
+            "label": "Capitol",
+            "length": "34:55"
+        },
+        "Revolver": {
+            "date": "August 5th, 1966",
+            "lable": "Parlophone",
+            "length": "35:01"
+        },
         "Sgt. Pepper's Lonely Hearts Club Band": {
             "date": "May 26th, 1967",
             "label": "Parlophone",
