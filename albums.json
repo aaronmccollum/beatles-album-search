@@ -4,9 +4,35 @@
         "1964": {},
         "1965": {},
         "1966": {},
-        "1967": {},
-        "1968": {},
-        "1969": {},
-        "1970": {}
+        "Sgt. Pepper's Lonely Hearts Club Band": {
+            "date": "May 26th, 1967",
+            "label": "Parlophone",
+            "length": "39:36"
+        },
+        "Magical Mystery Tour": {
+            "date": "November 27th, 1967",
+            "label": "Capitol",
+            "length": "36:35"
+        },
+        "The White Album": {
+            "date": "November 22nd, 1968",
+            "label": "Apple",
+            "length": "93:33"
+        },
+        "Yellow Submarine": {
+            "date": "January 13th, 1969",
+            "label": "Apple",
+            "length": "39:16"
+        },
+        "Abbey Road": {
+            "date": "September 26th, 1969",
+            "label": "Apple",
+            "length": "47.03"
+        },
+        "Let It Be": {
+            "date": "May 8th, 1970",
+            "label": "Apple",
+            "length": "35:10"
+        }
     }
 }
